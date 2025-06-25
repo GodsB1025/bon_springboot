@@ -13,7 +13,7 @@ import kr.smhrd.lunch.service.GoodsService;
 import lombok.RequiredArgsConstructor;
 
 
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "http://54.180.143.66:5173")
 @RestController
 @RequestMapping("/api")
 @RequiredArgsConstructor
